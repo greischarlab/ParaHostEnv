@@ -1,5 +1,3 @@
-# ParaHostEnv
-
 # Data and Code Description
 
 ## Data Used
