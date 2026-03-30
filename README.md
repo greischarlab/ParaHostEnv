@@ -1,4 +1,5 @@
 # Data and Code Description
+To access all code and data, please download the `code.zip` file.
 
 ## Data Used
 
